@@ -134,6 +134,7 @@ nav ul li a:hover {
 #home .container {
   max-width: 1200px; /* Lebar maksimum kontainer */
   margin: 0 auto; /* Pusatkan kontainer */
+  margin-top: 50px;
 }
 
 #home h2 {
